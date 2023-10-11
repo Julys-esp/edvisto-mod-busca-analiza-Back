@@ -1,0 +1,15 @@
+{
+  "name": "edvisto-mod-busca-analiza-back",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a> <!-- *** Este es un fork del proyecto https://github.com/maureenbarahona/readme-template  *** *** Este es un template inicial del repo *** Gracias por consultar este repositorio  *** Si tiene una sugerencia o mejora bifurque el repo *** Y cree una solicitud de extracción *** o simplemente abra una incidencia con la etiqueta \"mejora\". *** ¡No olvides darle una estrella a mi  proyecto! ***¡Gracias de nuevo! ¡Ahora ve a crear algo INCREÍBLE! :D -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
